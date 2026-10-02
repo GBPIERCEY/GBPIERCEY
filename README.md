@@ -1,14 +1,23 @@
-# Glenn Piercey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.png">
+  <img src="assets/profile-light.png" alt="Glenn Piercey — Alberta, Canada" width="1200">
+</picture>
 
-Building practical software and infrastructure projects with TypeScript, Next.js, PostgreSQL, Supabase, Docker, and Kubernetes.
+I build practical applications and the infrastructure that runs them. My current work spans vehicle tracking, reusable development workflows, and self-hosted deployments.
 
-## Current Focus
+## Currently building
 
-- Full-stack application development
-- SaaS product development
-- Self-hosted infrastructure and Kubernetes
-- Developer automation
+**CarLog**<br>
+A personal vehicle history tracker for mileage, fuel, repairs, and maintenance.
 
-## Technologies
+**Software Factory**<br>
+Reusable standards, product templates, and automation for human-supervised software development.
 
-`TypeScript` · `Next.js` · `React` · `Supabase` · `PostgreSQL` · `Docker` · `Kubernetes` · `Git`
+## Working stack
+
+| Area | Technologies |
+| :--- | :--- |
+| Applications | TypeScript · Next.js · React |
+| Data | PostgreSQL · Supabase |
+| Infrastructure & tooling | Docker · Kubernetes · Git |
