@@ -1,16 +1,14 @@
-## Hi there 👋
+# Glenn Piercey
 
-<!--
-**GBPIERCEY/GBPIERCEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical software and infrastructure projects with TypeScript, Next.js, PostgreSQL, Supabase, Docker, and Kubernetes.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-stack application development
+- SaaS product development
+- Self-hosted infrastructure and Kubernetes
+- Developer automation
+
+## Technologies
+
+`TypeScript` · `Next.js` · `React` · `Supabase` · `PostgreSQL` · `Docker` · `Kubernetes` · `Git`
