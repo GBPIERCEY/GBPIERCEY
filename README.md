@@ -13,11 +13,3 @@ A personal vehicle history tracker for mileage, fuel, repairs, and maintenance.
 
 **Software Factory**<br>
 Reusable standards, product templates, and automation for human-supervised software development.
-
-## Working stack
-
-| Area | Technologies |
-| :--- | :--- |
-| Applications | TypeScript · Next.js · React |
-| Data | PostgreSQL · Supabase |
-| Infrastructure & tooling | Docker · Kubernetes · Git |
