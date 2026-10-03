@@ -1,4 +1,8 @@
-<img src="assets/profile-synthwave.png" alt="Glenn Piercey — Alberta, Canada. Cyan architectural lines and a magenta horizon against midnight blue." width="1200">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-synthwave.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-synthwave-light.png">
+  <img src="assets/profile-synthwave-light.png" alt="Glenn Piercey — Alberta, Canada. Cyan architectural lines and a magenta horizon." width="1200">
+</picture>
 
 I build practical applications and the infrastructure that runs them. My current work spans vehicle tracking, reusable development workflows, and self-hosted deployments.
 
