@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="210" viewBox="0 0 800 210" role="img">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#19d9f5"/><stop offset="1" stop-color="#c855ef"/></linearGradient><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03101f"/><stop offset="1" stop-color="#0b142b"/></linearGradient></defs>
+<rect width="800" height="210" fill="url(#surface)"/>
+<path d="M0 1H800" stroke="url(#edge)" stroke-width="2"/>
+<path d="M27 32H42M27 32V182H42" fill="none" stroke="#19d9f5" stroke-opacity=".6"/>
+<text x="57" y="72" fill="#f0faff" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="600">CarLog</text>
+<path d="M665 62H735L768 29" fill="none" stroke="#19d9f5" stroke-opacity=".35"/>
+<path d="M726 181H771" stroke="#d45cec" stroke-opacity=".75" stroke-width="2"/><text x="57" y="119" fill="#b7cddd" font-family="Arial, Helvetica, sans-serif" font-size="27">Vehicle history for mileage, fuel,</text><text x="57" y="156" fill="#b7cddd" font-family="Arial, Helvetica, sans-serif" font-size="27">repairs, and maintenance.</text>
+</svg>

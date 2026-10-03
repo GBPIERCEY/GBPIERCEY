@@ -2,18 +2,12 @@
 
 I build practical applications and the infrastructure that runs them. My current work spans vehicle tracking, reusable development workflows, and self-hosted deployments.
 
-## Currently building
+<h2><img src="assets/section-building.svg" alt="Currently building" width="1200"></h2>
 
-**CarLog**<br>
-A personal vehicle history tracker for mileage, fuel, repairs, and maintenance.
+<img src="assets/project-carlog.svg" alt="CarLog — Vehicle history for mileage, fuel, repairs, and maintenance." width="1200">
 
-**Software Factory**<br>
-Reusable standards, product templates, and automation for human-supervised software development.
+<img src="assets/project-software-factory.svg" alt="Software Factory — Standards, product templates, and automation for human-supervised software development." width="1200">
 
-## Working stack
+<h2><img src="assets/section-stack.svg" alt="Working stack" width="1200"></h2>
 
-| Area | Technologies |
-| :--- | :--- |
-| Applications | TypeScript · Next.js · React |
-| Data | PostgreSQL · Supabase |
-| Infrastructure & tooling | Docker · Kubernetes · Git |
+<img src="assets/working-stack.svg" alt="Applications: TypeScript, Next.js, React. Data: PostgreSQL, Supabase. Infrastructure and tooling: Docker, Kubernetes, Git." width="1200">
