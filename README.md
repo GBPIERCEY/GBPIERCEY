@@ -16,3 +16,6 @@ An early-stage project for scheduling municipal facilities and managing bookings
 
 **Notebook**<br>
 A notebook application for Windows and the browser, with notes organized into notebooks and sections.
+
+**Cadence**<br>
+A workplace application in development for organizing teams, shared workspaces, and staffing.
