@@ -11,10 +11,3 @@ I build practical applications and the infrastructure that runs them. My current
 **CarLog**<br>
 A personal vehicle history tracker for mileage, fuel, repairs, and maintenance.
 
-## Working stack
-
-| Area | Technologies |
-| :--- | :--- |
-| Applications | TypeScript · Next.js · React |
-| Data | PostgreSQL · Supabase |
-| Infrastructure & tooling | Docker · Kubernetes · Git |
